@@ -17,3 +17,4 @@ switch (color) {
         alert('Color is not too late');
         break;
 }
+
