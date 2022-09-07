@@ -1,20 +1,21 @@
 
 const color = prompt('Input color');
-const mass = ['Red','Yellow','Green'];
-
 
 switch (color) {
-    case 'Red':
+    case 'Red','red':
         alert('Stop');
         break;
-    case 'Yellow':
+    case 'Yellow','yellow':
         alert('Expectation');
         break;
-    case 'Green':
+    case 'Green','green':
         alert('Go');
         break;
     default:
         alert('Color is not too late');
         break;
 }
+
+
+
 
